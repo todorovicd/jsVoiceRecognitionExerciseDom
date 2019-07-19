@@ -1,4 +1,4 @@
-const btn = document.querySelector(".talk"),
+const btn = document.querySelector(".talkBtn"),
   content = document.querySelector(".content");
 
 const SpeechRecognition =
